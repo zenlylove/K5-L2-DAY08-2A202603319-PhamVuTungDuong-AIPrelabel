@@ -1,1 +1,4 @@
 step,images,minutes,note
+gold_manual,4,30,"gán tay 4 ảnh gold"
+batch_review,24,30,"lượt đầu; review_stats bắt 0/12 bẫy, cần duyệt lại"
+batch_review,24,60,"lượt review lại; review_stats bắt 10/12 bẫy"

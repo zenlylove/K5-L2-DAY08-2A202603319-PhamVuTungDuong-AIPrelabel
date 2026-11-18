@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,"Đối chiếu ảnh gốc và overlay: không thấy lỗi nhãn/box rõ ràng."
+img_005.jpg,,khong,"Ảnh đông, box người chồng lấn do che khuất; rà các ID 46, 47, 51, 54, không thấy lệch rõ."
+img_008.jpg,,khong,"ID 79, 81, 83 là xe ba bánh chở hàng; phù hợp three_wheeler theo guideline."
+img_014.jpg,,khong,"Đối chiếu ảnh gốc và overlay: không thấy lỗi nhãn/box rõ ràng."
+img_017.jpg,,khong,"Hai tuk-tuk và người đi bộ được gán riêng; không thấy lỗi rõ ràng."
+img_022.jpg,,khong,"Đối chiếu ảnh gốc và overlay: không thấy lỗi nhãn/box rõ ràng."
+img_028.jpg,,khong,"ID 314, 316, 335 bao đúng các ô tô nhìn thấy; chồng lấn với người/xe máy là do cảnh đông."
+img_035.jpg,,khong,"ID 423 là xe ba bánh nhỏ; nhãn three_wheeler phù hợp, không thấy lỗi rõ ràng."
