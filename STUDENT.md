@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: https://github.com/zenlylove
 - Repo bài nộp (URL): https://github.com/zenlylove/K5-L2-DAY08-2A202603319-PhamVuTungDuong-AIPrelabel
-- Commit chốt bài (hash): Chưa chốt (chưa tạo commit release).
+- Commit chốt bài (hash): 176aecac2162304f33e81000790ea9a44c644d1.
 - Máy: macOS, Apple MPS (Python 3.13.18).
 - CVAT (Docker): v2.74.1 tại localhost:8080.
 
